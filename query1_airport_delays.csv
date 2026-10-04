@@ -1,0 +1,16 @@
+airport,airport_name,total_flights,total_delayed,delay_rate_pct
+RAP,"Rapid City, SD: Rapid City Regional",203.0,63.0,31.03
+FAT,"Fresno, CA: Fresno Yosemite International",422.0,127.0,30.09
+SBN,"South Bend, IN: South Bend International",7.0,2.0,28.57
+IDA,"Idaho Falls, ID: Idaho Falls Regional",450.0,118.0,26.22
+EWR,"Newark, NJ: Newark Liberty International",19519.0,5074.0,26.0
+MIA,"Miami, FL: Miami International",32862.0,8376.0,25.49
+FSD,"Sioux Falls, SD: Joe Foss Field",2128.0,529.0,24.86
+PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",20940.0,5163.0,24.66
+DLH,"Duluth, MN: Duluth International",220.0,53.0,24.09
+ALB,"Albany, NY: Albany International",3852.0,922.0,23.94
+MCO,"Orlando, FL: Orlando International",63355.0,14857.0,23.45
+SFO,"San Francisco, CA: San Francisco International",39564.0,9274.0,23.44
+ORD,"Chicago, IL: Chicago O'Hare International",33637.0,7868.0,23.39
+DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",35334.0,8213.0,23.24
+BUR,"Burbank, CA: Bob Hope",1306.0,303.0,23.2
